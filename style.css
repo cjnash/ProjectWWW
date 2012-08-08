@@ -1,0 +1,149 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+body {
+  font: 16px/1.5 verdana, helvetica-neue, helvetica, arial, san-serif;
+  background: black;
+  color: #ececec;
+  padding: 0;
+  margin: 0;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: #ccc;
+  text-decoration: none;
+}
+ 
+a:hover {
+  color: #ececec;
+  text-decoration: underline;
+}
+ 
+#main {
+  width: 960px;
+  margin: 0 auto;
+  background: rgba(255, 255, 255, 0.4);
+}
+header {
+  padding: 0 10px;
+  overflow: hidden;
+}
+h1 {
+  margin: 0;
+}
+ 
+nav ul, ul.entries {
+  list-style-type: none;
+}
+nav li a {
+  float: left;
+  margin: 5px;
+}
+.content {
+  padding: 10px;
+}
+ 
+ul.entries li {
+  position: relative;
+  margin: 20px auto;
+  padding: 20px;
+  background: #ececec;
+  width: 600px;
+}
+ 
+ul.entries img {
+  width: 600px;
+}
+ 
+ul.entries li h3 {
+  position: absolute;
+  bottom: -18px;
+  left: 17px;
+  font-size: 2em;
+}
+ul.entries a {
+  color: #ececec;
+}
+ul.entries a:hover {
+  color: #fff;
+}
+ 
+footer {
+  font-size: 0.65em;
+  text-align: center;
+}
+

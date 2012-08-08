@@ -1,0 +1,12 @@
+auto: true
+server: true
+permalink: none
+baseurl: "projectwww"
+prose:
+  metadata:
+    "_stories/blog": |
+      title:    "Title of your article"
+      abstract: "Abstract"
+    "_stories/projects": |
+      name: "Project Name"
+      img:  "Project Thumbnail"
