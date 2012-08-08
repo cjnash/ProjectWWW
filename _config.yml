@@ -7,6 +7,3 @@ prose:
     "_stories": |
       title:    "Title of your article"
       abstract: "Abstract"
-    "_stories/projects": |
-      name: "Project Name"
-      img:  "Project Thumbnail"
